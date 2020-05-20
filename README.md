@@ -4,7 +4,7 @@ Budgetr is a an income/expense tracker that allows users to add transactions as 
 
 ## Live Demo
 
-Live version hosted [here]()
+Live version hosted [here](https://frederick-chon.github.io/Budgetr/)
 
 ## Built Using
 
